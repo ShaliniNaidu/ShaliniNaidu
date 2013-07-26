@@ -1,0 +1,24 @@
+github.com
+
+
+  git clone https://github.com/username/repo name.git
+
+
+
+ git init
+ git add *
+ git status
+ git commit -m "Maven_Demo"
+ git remote add origin https://github.com/username/repo name.git
+
+
+ (git pull -u origin master)
+
+ git push -u origin master
+
+    
+
+
+
+git hub username: NarravulaThulasiram
+        password: kutty143
